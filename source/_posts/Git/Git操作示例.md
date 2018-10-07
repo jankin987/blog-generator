@@ -2,6 +2,8 @@
 title: Git操作示例
 date: 2018-09-19 23:15:01
 tags:
+categories: 
+- Git
 ---
 ### 初始化的两种方式
 ```

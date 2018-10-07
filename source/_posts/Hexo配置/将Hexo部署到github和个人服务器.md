@@ -1,6 +1,9 @@
 ---
 title: 将Hexo部署到github和个人服务器
 date: 2018-09-12 12:12:12
+tags: 
+- Hexo
+- Github
 categories: 
 - Hexo配置
 ---

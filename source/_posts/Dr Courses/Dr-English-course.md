@@ -1,7 +1,11 @@
 ---
 title: Dr English course
 date: 2018-09-12 17:22:18
-tags:
+tags: 
+- English
+categories: 
+- Dr Courses
+
 ---
 # Dr English course
 ---
@@ -19,7 +23,7 @@ tags:
 - From Network
  - Search engine: google, yahoo, etc..
  - Index system: SCI, EI, ISTP, ESI
- 
+
 #### **3. Index System** ####
 - SCI: Science Citation Index
 - EI: Engineering Index
@@ -64,7 +68,7 @@ tags:
  - 准备英文PPT并做学术报告（必须是英文），时间控制在20分钟（包括提问回答），主题是你的研究或他人的研究，包括研究背景、研究内容（要有图、表、公式等）、结论等。评分标准包括：PPT制作、演讲过程、问答表现。
 - 平时成绩3
  - 写一篇英文专业论文，任选与计算机相关的题目，英文10号字体不少于4页。要求内容完整，包括：标题、作者、摘要+关键词、引言、方法、结果、结论、致谢、文献等，且文中要有图、表、公式等。
- 
+
 #### **10. 考试成绩内容** ####
 - 英文句子修改（共10小题，每小题3分，共30分）
 - 英文段落修改（共2小题，每小题5分，共10分）

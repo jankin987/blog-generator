@@ -1,7 +1,11 @@
 ---
 title: 在wps中嵌入mathtype
 date: 2018-09-21 00:40:28
-tags:
+tags: 
+- wps
+- mathtype
+categories: 
+- Hexo配置
 ---
 
 1. 安装VBA环境。下载WPS VBA 7.0.1568，并安装，然后就可以启用宏了

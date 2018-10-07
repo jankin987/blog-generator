@@ -3,6 +3,7 @@ title: Hexo主题配置
 date: 2018-09-19 09:03:38
 tags: 
 - Hexo
+- 主题
 categories: 
 - Hexo配置
 ---

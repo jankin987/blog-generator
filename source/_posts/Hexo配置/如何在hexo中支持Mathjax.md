@@ -2,6 +2,7 @@
 title: 如何在hexo中支持Mathjax
 date: 2018-09-23 12:52:20
 tags:
+- Hexo
 - Mathjax
 categories: Hexo配置
 ---
